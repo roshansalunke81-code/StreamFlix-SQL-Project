@@ -2,6 +2,9 @@
 
 ## Subscriber Behaviour & Content Performance Analysis
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a59ea29-4fb0-4ae2-ae1d-cc1fb0d3aaf8" />
+
+
 A complete SQL analytics project based on a fictional OTT streaming platform called **StreamFlix**. This project focuses on analyzing subscriber behavior, content performance, engagement trends, and review patterns using advanced SQL concepts such as Joins, Window Functions, Subqueries, CTEs, Aggregations, and Date Functions. 
 
 ---
